@@ -55,7 +55,7 @@ const routes: Routes = [
   },
   {
     path: '',
-    redirectTo: '/tab-nav/activity-search'
+    redirectTo: '/home'
   }
 ];
 

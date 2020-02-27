@@ -1,6 +1,6 @@
 {
-  "appId": "com.ireserve.activities",
-  "appName": "Activities",
+  "appId": "app.ireserve.rondleidingen",
+  "appName": "rondleidingen",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
