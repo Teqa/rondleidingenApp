@@ -1,0 +1,7 @@
+{
+  "name": "rondleidingenApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
